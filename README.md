@@ -1,6 +1,6 @@
 <h3 align="center"> Hi, I’m @ansh27dev</h3>
 
-<h2 align='center'><a href='https://portfolio-sepia-alpha-17.vercel.app/'> PORTFOLIO</a></h2>
+<h2 align='center'><a href='https://portfolio-sepia-alpha-17.vercel.app/'> PORTFOLIO WEBSITE</a></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
